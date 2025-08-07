@@ -1,78 +1,92 @@
 <!-- README.md -->
 
-<h1 align="center">Hi 👋, I'm Ayushi Kapur</h1>
-<h3 align="center">🔐 Information-Security-Minded Full-Stack Developer | 🧠 AI & Cybersecurity Enthusiast | 🎓 B.Tech CSE @ VIT '26</h3>
+<h1 align="center">
+  ✨ Hi there, I'm <span style="color:#f06292;">Ayushi Kapur</span> 👋
+</h1>
+
+<h3 align="center">
+  🛡️ InfoSec-Oriented Full‑Stack Developer | 🤖 AI & Cybersecurity Enthusiast | 🎓 B.Tech CSE @ VIT '26
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayushiiscute&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ayushiiscute&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 💡 About Me
 
-- 🔭 Currently working on **Cybersecurity‑Focused Reflective QA System** and **Lively – Real‑time Streaming Web App**
-- 🌱 Exploring **Agentic AI (GROQ LLM, T5)**, **Scalable LLM Pipelines**, and **Advanced React Native**
-- 👯 Open to collaborations in **Cybersecurity Automation, Full‑Stack Web/Mobile Apps, AI‑powered DevOps tools**
-- 💬 Ask me about **Cybersecurity, React / React Native, Node.js, LLMs, DSA**
+- 🔭 Currently building: **Reflective QA System (Cybersecurity)** & **Lively – Real-time Streaming App**
+- 🌱 Learning: **Agentic AI (GROQ LLM, T5)**, **LLM Ops Pipelines**, and **React Native at scale**
+- 🤝 Collaborating on: **Cybersecurity automation**, **AI-DevOps tools**, and **Full‑Stack apps**
+- 💬 Ask me about: **React / React Native, Node.js, LLMs, CyberSec, DSA**
 - 📫 Reach me at: **kapur.ayushi1511@gmail.com**
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Let’s Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/ayushi-kapur-064a7432a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Ayushiiscute/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23000000?style=for-the-badge&logo=LeetCode&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Ayushiiscute" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Ayushiiscute/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
-<p align="left">
-  <!-- Web & App -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  
-  <!-- Database -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  
-  <!-- Cloud & Infra -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+
+  <!-- Backend & DB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" />
+
   <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+
+  <!-- Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushiiscute&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushiiscute&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushiiscute&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayushiiscute&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushiiscute&theme=github-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushiiscute&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-<!-- Thanks for visiting! -->
+### 🌟 Fun Fact
+
+> I'm as obsessed with beautiful code as I am with cybersecurity defense layers 🛡️🧠
+
+---
+
+<!-- Optional: Quote or aesthetic ending -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+</p>
