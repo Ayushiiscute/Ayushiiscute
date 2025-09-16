@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center">
-  <span style="color:#f06292;">✨ Hi, I'm Ayushi Kapur 👋</span>
+  ✨ Hi, I'm <span style="color:#f06292;">Ayushi Kapur</span> 👋
 </h1>
 
 <h3 align="center">
@@ -14,12 +14,13 @@
 
 ---
 
-## 💡 About Me
+## 💡 About Me  
 
-- 🔭 Currently building: **Reflective QA System (Cybersecurity)** & **Lively – Real-time Streaming App**
-- 🌱 Exploring: **Agentic AI (GROQ LLM, T5)** | **LLM Ops Pipelines** | **Scalable React Native**
-- 🤝 Open to collaborating on: **Cybersecurity automation**, **AI-DevOps tools**, and **Full-Stack platforms**
-- 💬 Ask me about: **React / React Native, Node.js, LLMs, CyberSec, DSA**
+- 🔭 Currently building: **Reflective QA System (Cybersecurity)** & **Lively – Real-time Streaming App**  
+- 🌱 Learning: **Agentic AI (GROQ LLM, T5)** | **LLM Ops Pipelines** | **Advanced React Native**  
+- 🤝 Collaboration Interests: **Cybersecurity automation**, **AI-DevOps tools**, **Full-Stack SaaS apps**  
+- 💬 Ask me about: **React / React Native, Node.js, LLMs, Cybersecurity, DSA**  
+- 🏆 Solved **400+ DSA problems on LeetCode** | Branch Topper @ VIT | Oracle Certified in Databases  
 - 📫 Reach me at: **kapur.ayushi1511@gmail.com**
 
 ---
@@ -40,7 +41,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Toolbox  
 
 <p align="center">
 
@@ -54,19 +55,31 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB" />
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" title="SQLite" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL" />
 
 <!-- Languages -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
 
 <!-- Cloud -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" title="AWS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker" />
 
 </p>
 
 ---
 
-## 📈 GitHub Analytics  
+## 🚀 Featured Projects  
+
+- 🔐 **Reflective QA Cybersecurity System** → Hybrid agentic AI system (T5 + GROQ LLM), 92% accuracy in threat analysis.  
+- 📱 **Calorie Counter Mobile App** → React Native + SQLite with AI meal recommendations & barcode scanner.  
+- 🩺 **PaceKeeper – Doctor Appointment System** → Next.js + Node.js + MongoDB with real-time notifications.  
+- 🎥 **Lively – Real-time Streaming App** → Low-latency streaming with scalable backend and secure APIs.  
+
+---
+
+## 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayushiiscute&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -79,6 +92,24 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushiiscute&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
+---
+
+## 🏅 Achievements & Highlights  
+
+- 🥇 **Branch Topper (2023)** – Awarded by Chancellor with ₹10,000 prize  
+- 👩‍💻 **Senior Core Member** – CodeChef VIT (2022–2024)  
+- 📜 **Oracle Database Foundation Certified** – SQL & RDBMS expertise  
+- ⚡ **400+ LeetCode Problems Solved** – Strong foundation in DSA  
+- 🎭 **Active in VIT Dramatics Club** – Strong communication & leadership skills  
+
+---
+
+## 📚 Currently Learning  
+
+- 🔒 **Advanced Cybersecurity Practices & Pentesting**  
+- 🧠 **LLM Ops & Agentic AI** (Feedback loops, evaluation pipelines)  
+- 🌐 **Scalable SaaS Architecture with Next.js + AWS**  
 
 ---
 
