@@ -18,14 +18,13 @@
 
 - 🔭 Currently building: **Reflective QA System (Cybersecurity)** & **Lively – Real-time Streaming App**  
 - 🌱 Learning: **Agentic AI (GROQ LLM, T5)** | **LLM Ops Pipelines** | **Advanced React Native**  
-- 🤝 Collaboration Interests: **Cybersecurity automation**, **AI-DevOps tools**, **Full-Stack SaaS apps**  
-- 💬 Ask me about: **React / React Native, Node.js, LLMs, Cybersecurity, DSA**  
+- 🤝 Open to collaborating on: **Cybersecurity automation**, **AI-DevOps tools**, **Full-Stack SaaS apps**  
 - 🏆 Solved **400+ DSA problems on LeetCode** | Branch Topper @ VIT | Oracle Certified in Databases  
-- 📫 Reach me at: **kapur.ayushi1511@gmail.com**
+- 📫 Reach me at: **kapur.ayushi1511@gmail.com**  
 
 ---
 
-## 🌐 Let’s Connect  
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayushi-kapur-064a7432a/" target="_blank">
@@ -37,6 +36,9 @@
   <a href="https://leetcode.com/u/Ayushiiscute/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  <a href="mailto:kapur.ayushi1511@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -47,7 +49,6 @@
 
 <!-- Frontend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React Native" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="45" title="Next.js" />
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" title="TailwindCSS" />
 
@@ -72,10 +73,20 @@
 
 ## 🚀 Featured Projects  
 
-- 🔐 **Reflective QA Cybersecurity System** → Hybrid agentic AI system (T5 + GROQ LLM), 92% accuracy in threat analysis.  
+- 🔐 **Reflective QA Cybersecurity System** → Hybrid agentic AI (T5 + GROQ LLM), 92% accuracy in threat analysis.  
 - 📱 **Calorie Counter Mobile App** → React Native + SQLite with AI meal recommendations & barcode scanner.  
 - 🩺 **PaceKeeper – Doctor Appointment System** → Next.js + Node.js + MongoDB with real-time notifications.  
 - 🎥 **Lively – Real-time Streaming App** → Low-latency streaming with scalable backend and secure APIs.  
+
+---
+
+## 🏅 Achievements  
+
+- 🥇 **Branch Topper (2023)** – Awarded by Chancellor with ₹10,000 prize  
+- 👩‍💻 **Senior Core Member** – CodeChef VIT (2022–2024)  
+- 📜 **Oracle Certified** – SQL & RDBMS expertise  
+- ⚡ **400+ LeetCode Problems Solved**  
+- 🎭 **VIT Dramatics Club** – Leadership & communication  
 
 ---
 
@@ -95,27 +106,52 @@
 
 ---
 
-## 🏅 Achievements & Highlights  
+## 📖 Blogs & Articles  
 
-- 🥇 **Branch Topper (2023)** – Awarded by Chancellor with ₹10,000 prize  
-- 👩‍💻 **Senior Core Member** – CodeChef VIT (2022–2024)  
-- 📜 **Oracle Database Foundation Certified** – SQL & RDBMS expertise  
-- ⚡ **400+ LeetCode Problems Solved** – Strong foundation in DSA  
-- 🎭 **Active in VIT Dramatics Club** – Strong communication & leadership skills  
+- 🔗 [Agentic AI in Cybersecurity – Personal Notes](#)  
+- 🔗 [Scaling React Native for Large Apps](#)  
+- 🔗 [DSA Problem-Solving Mindset](#)  
 
 ---
 
-## 📚 Currently Learning  
+## 📜 Certificates & Badges  
 
-- 🔒 **Advanced Cybersecurity Practices & Pentesting**  
-- 🧠 **LLM Ops & Agentic AI** (Feedback loops, evaluation pipelines)  
-- 🌐 **Scalable SaaS Architecture with Next.js + AWS**  
+- 🏆 Oracle Database Foundations  
+- 🏅 Git & Version Control (Coursera)  
+- 🛡️ Cybersecurity Basics (IBM SkillsBuild)  
+- ☁️ AWS Academy Graduate – Cloud Foundations  
 
 ---
 
-## 🌟 Fun Fact  
+## 🎶 Now Playing on Spotify  
 
-> I’m as obsessed with **beautifully engineered code** as I am with **cybersecurity defense layers** 🛡️⚡  
+<p align="center">
+  <a href="https://open.spotify.com/user/spotify" target="_blank">
+    <img src="https://novatorem-spotify-readme.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+---
+
+## 🗺️ Visitor Map  
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=Ayushiiscute&label=🌍%20Global%20Visitors&labelColor=%23d9e3f0&countColor=%23697689&style=flat-square" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/Ayushiiscute/Ayushiiscute/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🌟 Quote / Motto  
+
+> “Build secure systems. Solve tough problems. Keep learning.” 🚀  
 
 ---
 
