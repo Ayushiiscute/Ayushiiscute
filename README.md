@@ -20,7 +20,7 @@
 - 🌱 Learning: **Agentic AI (GROQ LLM, T5)** | **LLM Ops Pipelines** | **Advanced React Native**  
 - 🤝 Collaboration Interests: **Cybersecurity automation**, **AI-DevOps tools**, **Full-Stack SaaS apps**  
 - 💬 Ask me about: **React / React Native, Node.js, LLMs, Cybersecurity, DSA**  
-- 🏆 Solved **400+ DSA problems on LeetCode** | Branch Topper @ VIT | Oracle Certified in Databases  
+- 🏆 Solved **600+ DSA problems on LeetCode** | Branch Topper @ VIT | Oracle Certified in Databases  
 - 📫 Reach me at: **kapur.ayushi1511@gmail.com**
 
 ---
